@@ -396,10 +396,10 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     ######
     ######
-    #
+    # Lydia and Devon - 397 to 421
     elif player == 11:
         if getting_team_name:
-            return 'loyal vengeful'
+            return 'LydiaDevon'
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
