@@ -16,7 +16,7 @@ Aggregated results are stored in tournament.txt
 Unpublished work (c)2013 Project Lead The Way
 CSE Project 1.3.5 Collaborating on a Project
 Draft, Do Not Distribute
-Version 8/23/2013 
+Version 10/26/2015 
 '''
 
 import random
@@ -346,16 +346,18 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 9:
         if getting_team_name:
-            return 'loyal vengeful'
+            return 'Jon Colin Galen'
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
-            if len(opponent_history)==0: #It's the first round: collude
+            if len(opponent_history)<=1: #It's the first round: betray
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were severely punished last time
+            elif opponent_history[-1]=='b'and opponent_history[-2]=='b':
+                return 'b' # betray if they betray twice in a row
+            elif opponent_history[-1]=='c'and opponent_history[-2]=='c':
+                return 'c' # collude if they collude twice in a row
             else:
-                return 'c' #otherwise collude
+                return 'b' # betray if 
 
 
 
