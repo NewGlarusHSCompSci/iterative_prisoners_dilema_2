@@ -198,21 +198,21 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     ######
     ######
-    #
+    #Ellawyn and Tessa... But mostly Ellawyn
     elif player == 4:
         if getting_team_name:
-            return 'betray every 3rd round'
+            return 'Ellawyn and Tessa'
         else:
-            # use history, opponent_history, score, opponent_score
-            # to compute your strategy
-            size = len(history)
-            if(size%3==0): #the number of rounds played is a multiple of 3
+            integer=random.randint(1,20)
+            if len(opponent_history)==0:
                 return 'c'
-            else:
+            if len(opponent_history)>2:
+                if opponent_history[-1]=='c' and opponent_history[-2]=='c':
+                    return 'b'
+            elif integer <=2:
                 return 'b'
-    
-    
-    
+            else:    
+                return 'c'
 
 
 

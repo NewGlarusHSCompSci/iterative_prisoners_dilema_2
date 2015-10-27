@@ -1,0 +1,1932 @@
+team 1 vs. team 0
+100 vs. -500
+backstabber vs. loyal
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 2 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 2 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 3 vs. team 1
+-377 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 4 vs. team 0
+98 vs. -493
+Ellawyn and Tessa vs. loyal
+cccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 4 vs. team 1
+-8 vs. 1
+Ellawyn and Tessa vs. backstabber
+ccc                                                                                                                                                                                          
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 4 vs. team 2
+-38 vs. -188
+Ellawyn and Tessa vs. loyal vengeful
+ccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb
+cccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccb
+
+team 4 vs. team 3
+-37 vs. -185
+Ellawyn and Tessa vs. loyal vengeful
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcc
+
+team 5 vs. team 0
+0 vs. 0
+TREY AND LANDON ARE COOL vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 1
+-252 vs. -248
+TREY AND LANDON ARE COOL vs. backstabber
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 5 vs. team 2
+0 vs. 0
+TREY AND LANDON ARE COOL vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 3
+0 vs. 0
+TREY AND LANDON ARE COOL vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 4
+-5 vs. -1
+TREY AND LANDON ARE COOL vs. Ellawyn and Tessa
+ccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccbb                                                                                                                                                            
+
+team 6 vs. team 0
+0 vs. -5
+Nick_DoubleD_Max vs. loyal
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 1
+-250 vs. -250
+Nick_DoubleD_Max vs. backstabber
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 6 vs. team 2
+-3 vs. -3
+Nick_DoubleD_Max vs. loyal vengeful
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 3
+-4 vs. -4
+Nick_DoubleD_Max vs. loyal vengeful
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 4
+-492 vs. 95
+Nick_DoubleD_Max vs. Ellawyn and Tessa
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 6 vs. team 5
+-3 vs. -3
+Nick_DoubleD_Max vs. TREY AND LANDON ARE COOL
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 1
+-376 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 7 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 4
+-183 vs. -40
+loyal vengeful vs. Ellawyn and Tessa
+ccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcc
+cbc  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  
+
+team 7 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 0
+0 vs. 0
+loyal vengeful with permanent second impression vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 1
+-254 vs. -245
+loyal vengeful with permanent second impression vs. backstabber
+cbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 8 vs. team 2
+0 vs. 0
+loyal vengeful with permanent second impression vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 3
+0 vs. 0
+loyal vengeful with permanent second impression vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 4
+-5 vs. -1
+loyal vengeful with permanent second impression vs. Ellawyn and Tessa
+ccbcc c c                                                                                                                                                                                 
+cbb  b                                                                                                                                                                                    
+
+team 8 vs. team 5
+0 vs. 0
+loyal vengeful with permanent second impression vs. TREY AND LANDON ARE COOL
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 6
+-3 vs. -3
+loyal vengeful with permanent second impression vs. Nick_DoubleD_Max
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 7
+0 vs. 0
+loyal vengeful with permanent second impression vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 1
+-377 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 9 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 4
+-186 vs. -36
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbccc
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  b
+
+team 9 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 0
+0 vs. 0
+MichaelFink | Jesse Mattman vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 1
+-252 vs. -249
+MichaelFink | Jesse Mattman vs. backstabber
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 2
+0 vs. 0
+MichaelFink | Jesse Mattman vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 3
+0 vs. 0
+MichaelFink | Jesse Mattman vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 4
+-150 vs. -29
+MichaelFink | Jesse Mattman vs. Ellawyn and Tessa
+ccccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbcccbbccc
+cccbb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   bb   b
+
+team 10 vs. team 5
+0 vs. 0
+MichaelFink | Jesse Mattman vs. TREY AND LANDON ARE COOL
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 6
+-4 vs. -4
+MichaelFink | Jesse Mattman vs. Nick_DoubleD_Max
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 7
+0 vs. 0
+MichaelFink | Jesse Mattman vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 8
+0 vs. 0
+MichaelFink | Jesse Mattman vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 9
+0 vs. 0
+MichaelFink | Jesse Mattman vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 1
+-377 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 4
+-187 vs. -38
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccb
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb
+
+team 11 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 4
+-185 vs. -37
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbc
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb 
+
+team 12 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 1
+-376 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 13 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 4
+-187 vs. -38
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccb
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb
+
+team 13 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 12
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 14 vs. team 0
+15 vs. -78
+loyal vengeful occasionally greedy vs. loyal
+cccbcccbcccccbcbccbccccccbccccccbcccccccccbccccccccccccccccbccccccccbccccccccccccccbcbccccccccccccccccccccccccccbcbcccccccccbcccccccbbcbcbcbccccccbccbccccccccccccbcccbbcccbcccbcbccccccbcccbcccccccbcc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 14 vs. team 1
+-368 vs. -86
+loyal vengeful occasionally greedy vs. backstabber
+cbcbbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 14 vs. team 2
+-110 vs. -133
+loyal vengeful occasionally greedy vs. loyal vengeful
+ccccccccccccccccbbcccccbcbcbcbcbbccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccccccbcbbcbcbcbcbcbbcbbcccccccccccccbcbcbcbcbcbcbcbbcccccccccccccbcbc
+cccccccccccccccccbccccccbcbcbcbcbcccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbccccccccbcbccbcbcbcbcbccbccccccccccccccbcbcbcbcbcbcbcbccccccccccccccbcb
+
+team 14 vs. team 3
+-112 vs. -141
+loyal vengeful occasionally greedy vs. loyal vengeful
+ccccccbcbcbcbbcccbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccbcbcbcbcbcbbbcbcbcbbccccccccccccccccccccccccccccccccbcbcbcbcbcbcb
+cccccccbcbcbcbccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccbcbcbcbcbcbcbcbcbcbcccccccccccccccccccccccccccccccccbcbcbcbcbcbc
+
+team 14 vs. team 4
+-176 vs. -38
+loyal vengeful occasionally greedy vs. Ellawyn and Tessa
+cbcccbcccbcccbcccbcccbccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcbcccbcccbbcccbcccbcccbcccbcccbcccbcccbcccbccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcbcccbccc
+cbc bb  bb  bb  bb  bb  b  bb  bb  bb  bb  bb  bb  bb  bb  bb    bb  bb   bb  bb  bb  bb  bb  bb  bb  bb  b  bb  bb  bb  bb  bb  bb  bb  bb  bb    bb  b
+
+team 14 vs. team 5
+-201 vs. -201
+loyal vengeful occasionally greedy vs. TREY AND LANDON ARE COOL
+cbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbc
+ccbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbb
+
+team 14 vs. team 6
+7 vs. -50
+loyal vengeful occasionally greedy vs. Nick_DoubleD_Max
+cbccbccccccccccccccccccccccccccbcccccccbccccccccccccccccccccccbcccccbbccccccccccbccccccccccccccbcccbccccccccccccccbbcccccccccbcccbbcccccccccbccccccccccccccccccccccccbcccc
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 14 vs. team 7
+-123 vs. -145
+loyal vengeful occasionally greedy vs. loyal vengeful
+cccbcbbccccccccccccccccccccccccbcbcbcbbcccccccbcbcbcbbcccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbbcccccccccccccccccccbcbcbcbbc
+ccccbcbcccccccccccccccccccccccccbcbcbcbccccccccbcbcbcbccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbccccccccccccccccccccbcbcbcbc
+
+team 14 vs. team 8
+-170 vs. -177
+loyal vengeful occasionally greedy vs. loyal vengeful with permanent second impression
+cccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccccccccbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbbcbbcbcbcbcbcbcbbcbcbcbcbcbbcb
+ccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbccccccccccbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbbcbbcbcbcbcbcbcbbcbcbcbcbcbbc
+
+team 14 vs. team 9
+-110 vs. -138
+loyal vengeful occasionally greedy vs. loyal vengeful
+ccccccbcbcbcbbccbcbbccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccbcbcbcbcbcbcbcbbbcbcbbcccccccccccccccccccccbcbcbcbbccccccccccbcbbcccccccccccc
+cccccccbcbcbcbcccbcbcccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccbcbcbcbcbcbcbcbcbcbcbccccccccccccccccccccccbcbcbcbcccccccccccbcbcccccccccccc
+
+team 14 vs. team 10
+-199 vs. -202
+loyal vengeful occasionally greedy vs. MichaelFink | Jesse Mattman
+ccbcbcbbcbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+cccbcbcbbcbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+
+team 14 vs. team 11
+-140 vs. -171
+loyal vengeful occasionally greedy vs. loyal vengeful
+cbbccccbcbcbcbcbbcccccbcbcbbccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccccccccbbccbcbcbcbbccccbcbcbcbcbcbcbcbcbcbcbcbcbbcccbcbcbcbcbcbbcccccccccbcbcb
+ccbcccccbcbcbcbcbccccccbcbcbcccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbccccccccccbcccbcbcbcbcccccbcbcbcbcbcbcbcbcbcbcbcbcbccccbcbcbcbcbcbccccccccccbcbc
+
+team 14 vs. team 12
+-120 vs. -154
+loyal vengeful occasionally greedy vs. loyal vengeful
+ccccccbcbbbcbcbcbcbbcccccbcbcbcbcbbcccccccccccccccccccccbcbcbcbcbcbcbcbbcccccccccccbcbcbbbbccbcbcbcbcbbccccbbcccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccb
+cccccccbcbcbcbcbcbcbccccccbcbcbcbcbccccccccccccccccccccccbcbcbcbcbcbcbcbccccccccccccbcbcbcbcccbcbcbcbcbcccccbccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccc
+
+team 14 vs. team 13
+-128 vs. -148
+loyal vengeful occasionally greedy vs. loyal vengeful
+ccbcbcbcbcbcbcbcbbcccccbcbcbbccccccccccccccccccccccccbcbcbcbcbcbcbcbcbbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+cccbcbcbcbcbcbcbcbccccccbcbcbcccccccccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+
+team 15 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 15 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 4
+-185 vs. -37
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbc
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb 
+
+team 15 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 12
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 14
+-148 vs. -119
+loyal vengeful vs. loyal vengeful occasionally greedy
+cccccccccbcbcbcbcccbcccbccccccccccccccccccccccbcccccccbcbcbcbcbcbcbcbcccccccccccccbcbcbcbcbcbcbcbcbcccccbcccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbccccccccbcbcbcbcbcbcbcbcbcbcb
+ccccccccbcbcbcbbccbbccbbcccccccccccccccccccccbbccccccbcbcbcbcbcbcbcbbccccccccccccbcbcbcbcbcbcbcbcbbccccbbccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccccccbcbcbcbcbbbcbcbcbcbcbc
+
+team 16 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 16 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 4
+-186 vs. -36
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbccc
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  b
+
+team 16 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 6
+-4 vs. -4
+loyal vengeful vs. Nick_DoubleD_Max
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 12
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 14
+-99 vs. -71
+loyal vengeful vs. loyal vengeful occasionally greedy
+ccccccccccccccccbcccbcbcbcbcbcbcbcbcccccccccccccccccccccccccccccccbcccccccccccccccccbcbcbcbccccccccbcbcbcbcbcbcbcbccccccccbcbcbcbcb
+cccccccccccccccbbccbcbcbcbcbbbcbcbbccccccccccccccccccccccccccccccbbccccccccccccccccbcbcbcbbcccccccbcbcbcbcbcbcbcbbcccccccbcbcbcbcbc
+
+team 16 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 17 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 4
+-186 vs. -38
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbc
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb 
+
+team 17 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 12
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 14
+-151 vs. -111
+loyal vengeful vs. loyal vengeful occasionally greedy
+ccccccccccccccccccccccccccccbcbcccbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccbcbcbccccbcbcbcbcbcccccbcbcbcbccbcbcbcbccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+cccccccccccccccccccccccccccbcbbccbcbbbcbcbcbcbcbcbcbcbcbcbbccccccccccbcbcbbcccbcbcbcbcbbccccbcbcbcbbcbcbcbcbbcccccccbbbcbcbcbcbcbcbcbcbcbcbcbbbcbcbcb
+
+team 17 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 16
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 1
+-376 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 18 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 4
+-185 vs. -37
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcc
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  
+
+team 18 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 12
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 14
+-161 vs. -135
+loyal vengeful vs. loyal vengeful occasionally greedy
+cccccccccccccbcbcbcbcbccbccccbcbcbcbcbcbcbcbccccccbcbcccccccbcbcbcbcbcbcbcbcbcbcbcbccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccc
+ccccccccccccbcbcbcbcbbcbbcccbcbcbcbcbcbcbcbbcccccbcbbccccccbcbcbcbcbcbcbcbcbcbcbcbbcccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccc
+
+team 18 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 16
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 17
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 1
+-377 vs. -74
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 19 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 4
+-187 vs. -38
+loyal vengeful vs. Ellawyn and Tessa
+ccccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccbcccb
+cccbb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb  bb
+
+team 19 vs. team 5
+0 vs. 0
+loyal vengeful vs. TREY AND LANDON ARE COOL
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 6
+-3 vs. -3
+loyal vengeful vs. Nick_DoubleD_Max
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 7
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 8
+0 vs. 0
+loyal vengeful vs. loyal vengeful with permanent second impression
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 10
+0 vs. 0
+loyal vengeful vs. MichaelFink | Jesse Mattman
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 12
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 14
+-153 vs. -142
+loyal vengeful vs. loyal vengeful occasionally greedy
+ccccccccccccbccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbccccbcb
+cccccccccccbbcccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcccbcbc
+
+team 19 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 16
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 17
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 18
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+
+
+
+	Each column shows score earned per round against each other player.
+
+
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	P15	P16	P17	P18	P19	
+P0	0	100	0	0	98	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	
+P1	-500	0	-375	-377	-8	-252	-250	-376	-254	-377	-252	-377	-375	-376	-368	-375	-375	-375	-376	-377	
+P2	0	-75	0	0	-38	0	-3	0	0	0	0	0	0	0	-110	0	0	0	0	0	
+P3	0	-74	0	0	-37	0	-4	0	0	0	0	0	0	0	-112	0	0	0	0	0	
+P4	-493	1	-188	-185	0	-5	-492	-183	-5	-186	-150	-187	-185	-187	-176	-185	-186	-186	-185	-187	
+P5	0	-248	0	0	-1	0	-3	0	0	0	0	0	0	0	-201	0	0	0	0	0	
+P6	-5	-250	-3	-4	95	-3	0	-3	-3	-3	-4	-3	-3	-3	7	-3	-4	-3	-3	-3	
+P7	0	-74	0	0	-40	0	-3	0	0	0	0	0	0	0	-123	0	0	0	0	0	
+P8	0	-245	0	0	-1	0	-3	0	0	0	0	0	0	0	-170	0	0	0	0	0	
+P9	0	-74	0	0	-36	0	-3	0	0	0	0	0	0	0	-110	0	0	0	0	0	
+P10	0	-249	0	0	-29	0	-4	0	0	0	0	0	0	0	-199	0	0	0	0	0	
+P11	0	-74	0	0	-38	0	-3	0	0	0	0	0	0	0	-140	0	0	0	0	0	
+P12	0	-75	0	0	-37	0	-3	0	0	0	0	0	0	0	-120	0	0	0	0	0	
+P13	0	-74	0	0	-38	0	-3	0	0	0	0	0	0	0	-128	0	0	0	0	0	
+P14	-78	-86	-133	-141	-38	-201	-50	-145	-177	-138	-202	-171	-154	-148	0	-148	-99	-151	-161	-153	
+P15	0	-75	0	0	-37	0	-3	0	0	0	0	0	0	0	-119	0	0	0	0	0	
+P16	0	-75	0	0	-36	0	-4	0	0	0	0	0	0	0	-71	0	0	0	0	0	
+P17	0	-75	0	0	-38	0	-3	0	0	0	0	0	0	0	-111	0	0	0	0	0	
+P18	0	-75	0	0	-37	0	-3	0	0	0	0	0	0	0	-135	0	0	0	0	0	
+P19	0	-74	0	0	-38	0	-3	0	0	0	0	0	0	0	-142	0	0	0	0	0	
+Total:	-1074	-1865	-697	-705	-325	-459	-832	-705	-436	-701	-605	-736	-715	-711	-2505	-709	-662	-713	-722	-717	
+
+
+ Average per round, with team strategy names:
+
+player 0: -54 points: loyal
+player 1: -94 points: backstabber
+player 2: -35 points: loyal vengeful
+player 3: -36 points: loyal vengeful
+player 4: -17 points: Ellawyn and Tessa
+player 5: -23 points: TREY AND LANDON ARE COOL
+player 6: -42 points: Nick_DoubleD_Max
+player 7: -36 points: loyal vengeful
+player 8: -22 points: loyal vengeful with permanent second impression
+player 9: -36 points: loyal vengeful
+player 10: -31 points: MichaelFink | Jesse Mattman
+player 11: -37 points: loyal vengeful
+player 12: -36 points: loyal vengeful
+player 13: -36 points: loyal vengeful
+player 14: -126 points: loyal vengeful occasionally greedy
+player 15: -36 points: loyal vengeful
+player 16: -34 points: loyal vengeful
+player 17: -36 points: loyal vengeful
+player 18: -37 points: loyal vengeful
+player 19: -36 points: loyal vengeful
+
+
+-------------------------------------------------------------------------------
+Here is the code that produced this data:
+
+from __future__ import print_function
+
+''' 
+PrisonerDilemma.py allows hard-coding different strategies
+for the Iterative Prisoners Dilemma, the canonical game of game-theory.
+Each strategy plays 100 to 200 rounds against each other strategy.
+The results of all previous rounds within a 100-200 round stretch are known
+to both players. 
+
+play_tournament() executes the tournament and stores output in tournament.txt
+
+Players should each code their strategies in their assigned section of code.
+
+Aggregated results are stored in tournament.txt
+
+Unpublished work (c)2013 Project Lead The Way
+CSE Project 1.3.5 Collaborating on a Project
+Draft, Do Not Distribute
+Version 8/23/2013 
+'''
+
+import random
+def play_round(player1, player2, history1, history2, score1, score2):
+    '''
+    Calls the get_action() function which will get the characters
+    'c' or 'b' for collude or betray for each player.
+    The history is provided in a string, e.g. 'ccb' indicates the player
+    colluded in the first two rounds and betrayed in the most recent round.
+    Returns a 4-tuple with updated histories and scores
+    (history1, history2, score1, score2)
+    '''
+    
+    RELEASE = 0 # (R) when both players collude
+    TREAT = 100 # (T) when you betray your partner
+    SEVERE_PUNISHMENT = -500 # (S) when your partner betrays you
+    PUNISHMENT = -250 # (P) when both players betray each other
+    # Keep T > R > P > S to be a Prisoner's Dilemma
+    # Keep 2R > T + S to be an Iterative Prisoner's Dilemma
+    
+    #Get the two players' actions and remember them.
+    action1 = get_action(player1, history1, history2, score1, score2)
+    action2 = get_action(player2, history2, history1, score2, score1)
+    if type(action1) != str:
+        action1=' '
+    if type(action2) != str:
+        action2=' '
+    #Append the actions to the previous histories, to return
+    new_history1 = history1 + action1
+    new_history2 = history2 + action2
+    
+    #Change scores based upon player actions
+    if action1 not in ('c','b') or action2 not in ('c','b'):
+    # Do nothing if someone's code returns an improper action
+        new_score1 = score1
+        new_score2 = score2
+        
+    else: 
+    #Both players' code provided proper actions
+        if action1 == 'c':
+            if action2 == 'c':
+                # both players collude; get reward
+                new_score1 = score1 + RELEASE
+                new_score2 = score2 + RELEASE
+            else:
+                # players 1,2 collude, betray; get sucker, tempation
+                new_score1 = score1 + SEVERE_PUNISHMENT
+                new_score2 = score2 + TREAT
+        else:
+            if action2 == 'c':
+                # players 1,2 betray, collude; get tempation, sucker
+                new_score1 = score1 + TREAT
+                new_score2 = score2 + SEVERE_PUNISHMENT                       
+            else:
+                # both players betray; get punishment   
+                new_score1 = score1 + PUNISHMENT
+                new_score2 = score2 + PUNISHMENT
+                    
+    #send back the updated histories and scores
+    return (new_history1, new_history2, new_score1, new_score2)
+   
+def play_iterative_rounds(player1, player2):
+    '''
+    Plays a random number of rounds (between 100 and 200 rounds) 
+    of the iterative prisoners' dilemma between two strategies.
+    identified in the parameters as integers.
+    Returns 4-tuple, for example ('cc', 'bb', -200, 600) 
+    but with much longer strings 
+    '''
+    number_of_rounds = random.randint(100,200)
+    moves1 = ''
+    moves2 = ''
+    score1 = 0
+    score2 = 0
+    for round in range(number_of_rounds):
+        moves1, moves2, score1, score2 = \
+            play_round(player1, player2, moves1, moves2, score1, score2)
+    return (moves1, moves2, score1, score2)
+
+def get_action(player, history, opponent_history, score, opponent_score, getting_team_name=False):
+    '''Gets the strategy for the player, given their own history and that of
+    their opponent, as well as the current scores within this pairing.
+    The parameters history and opponenet history are strings with one letter
+    per round that has been played so far: either an 'c' for collude or a 'b' for 
+    betray. The function should return one character, 'c' or 'b'. 
+    The history strings have the first round between these two players 
+    as the first character and the most recent round as the last character.'''
+      
+    ######
+    ######
+    #
+    # This example player always colludes
+    if player == 0:
+        if getting_team_name:
+            return 'loyal'
+        else:
+            return 'c'
+
+    
+        
+            
+                
+                    
+                            
+    ######
+    ######
+    #
+    #This example player always betrays.      
+    elif player == 1:
+        if getting_team_name:
+            return 'backstabber'
+        else:
+            return 'b'
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #   
+    #This example player is silent at first and then 
+    #only betrays if they were a sucker last round.
+    elif player == 2:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray if they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+
+
+    
+    
+    
+    
+    # EACH STUDENT TEAM CAN CHANGE ONE OF THESE elif SEGMENTS OF CODE.
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 3:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #Ellawyn and Tessa... But mostly Ellawyn
+    elif player == 4:
+        if getting_team_name:
+            return 'Ellawyn and Tessa'
+        else:
+            integer=random.randint(1,20)
+            if len(opponent_history)==0:
+                return 'c'
+            if len(opponent_history)>2:
+                if opponent_history[-1]=='c' and opponent_history[-2]=='c':
+                    return 'b'
+            elif integer <=2:
+                return 'b'
+            else:    
+                return 'c'
+
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######        
+    #
+    elif player == 5:
+        if getting_team_name:
+            return 'TREY AND LANDON ARE COOL'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            if opponent_history[-1]=='c':
+                return 'c'
+            else:
+                return 'b'
+            
+    
+    
+    
+    
+
+
+
+
+
+    ######
+    ######        
+    #
+    elif player == 6:
+        if getting_team_name:
+            return 'Nick_DoubleD_Max'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'b'
+            elif history[-1]=='b' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######       
+    #
+    elif player == 7:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were sucker last time
+            else:
+                return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######        
+    #
+    elif player == 8:
+        if getting_team_name:
+            #if there was a previous round just like 
+            return 'loyal vengeful with permanent second impression'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy      
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            else:
+                # if there was a previous round just like the last one,
+                # do whatever they did in the round that followed it
+                recent_round_opponent = opponent_history[-1]
+                recent_round_me = history[-1]
+                            
+                #go through rounds before that one
+                for round in range(len(history)-1):
+                    prior_round_opponent = opponent_history[round]
+                    prior_round_me = history[round]
+                    #if one matches
+                    if (prior_round_me == recent_round_me) and \
+                            (prior_round_opponent == recent_round_opponent):
+                        return opponent_history[round]
+                # no match found
+                if history[-1]=='c' and opponent_history[-1]=='b':
+                    return 'b' # betray is they were severely punished last time
+                else:
+                    return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 9:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 10:
+        if getting_team_name:
+            return 'MichaelFink | Jesse Mattman'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            elif history[-1]=='b' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            elif history[-1]=='c' and opponent_history[-1]=='c':
+                return 'c' # betray is they were severely punished last time                
+            else:
+                return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 11:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 12:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+    
+
+
+    ######
+    ######
+    #
+    elif player == 13:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 14:
+        if getting_team_name:
+            return 'loyal vengeful occasionally greedy'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                if random.random()<0.1: #10% of the other rounds
+                    return 'b'         #betray
+                else:
+                    return 'c'         #otherwise collude
+    
+    
+    
+    
+
+
+
+    ######
+    ######
+    #
+    elif player == 15:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 16:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 17:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 18:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 19:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+    
+
+
+
+
+
+
+
+def play_tournament(num_players):
+    #create a list of zeros, one per player
+    scores = []
+    for i in range(num_players):
+        scores += [0]
+    
+    
+    ''' Get the team name from each team algorithm'''
+    #create a list of the right length
+    team_names = range(num_players)
+    for player in range(num_players):
+        team_names[player] = get_action(player,'','',0,0,getting_team_name=True)
+             
+    # each element will become a column for each player
+    # range is just to get list of correct size
+    result_table=range(num_players)     
+    moves_table=range(num_players) 
+    
+    
+    for player1 in range(num_players):  
+        # create the column for each player
+        # range just to get list of correct size
+        result_table[player1]=range(num_players) 
+        result_table[player1][player1]=0 # initialize unused diagonal to 0
+        moves_table[player1]=range(num_players)
+        # play a game between with every other player of lower number
+        for player2 in range(player1):
+            moves1, moves2, score1, score2 = \
+                play_iterative_rounds(player1, player2)
+            
+            rounds = len(moves1)
+            score1_per_round = score1/rounds 
+            score2_per_round = score2/rounds
+            
+            result_table[player1][player2]=score1_per_round
+            result_table[player2][player1]=score2_per_round
+            
+            moves_table[player1][player2] = moves1
+            moves_table[player2][player1] = moves2
+            
+            #accumulate the results for the two players
+            scores[player1] += score1*1.0/len(moves1)#ends up same as column sum
+            scores[player2] += score2*1.0/len(moves2)#ends up same as column sum
+     
+    '''report round-level results in a data file'''
+    use_datafile=True
+    if use_datafile:
+        # use the same directory as the python script
+        import os.path              
+        directory = os.path.dirname(os.path.abspath(__file__))  
+        
+        #name the file tournament.txt
+        filename = os.path.join(directory, 'tournament.txt')
+        #create the file for the round-by-round results
+        results = open(filename,'w')
+        for player1 in range(num_players):
+            for player2 in range(player1):
+                # store the results in the file
+                #title by team numbers
+                results.write('team ' + str(player1) + 
+                              ' vs. ' + 'team ' + str(player2) +'\n')
+                #title by player-on-player average score
+                results.write(str(result_table[player1][player2]) + 
+                              ' vs. ' + str(result_table[player2][player1])+'\n')
+                #title by team names
+                results.write(team_names[player1] + 
+                             ' vs. ' + team_names[player2] + '\n')
+                #show the moves, aligned vertically
+                results.write(moves_table[player1][player2] +'\n')
+                results.write(moves_table[player2][player1] +'\n')
+                #blank line between each pair's results
+                results.write('\n')
+            
+        #at the bottom repeat the output that was sent to the screen
+        #print a title for the table
+        results.write('\n\n\n\tEach column shows score earned per round against each other player.\n\n\n')
+        #print header line
+        results.write('\t') #skip 1st column
+        for player1 in range(num_players):
+            results.write('P'+str(player1)+'\t') # label each additional column
+        results.write('\n')
+        
+        #print each player's scores
+        for player2 in range(num_players):
+            results.write('P'+str(player2)+'\t') #label the player's row
+            for player1 in range(num_players):
+                #print score against each other player
+                results.write(str(result_table[player1][player2])+'\t') 
+            results.write('\n')
+        results.write('Total:\t')
+        for player1 in range(num_players):
+            results.write(str(int(scores[player1]))+'\t')
+        results.write('\n\n\n Average per round, with team strategy names:\n\n')       
+    
+        #print team ids, total scores, and names
+        for player in range(num_players):
+            results.write('player ' + str(player) + ': ' + \
+                    str(int(scores[player])/num_players) + ' points: '+\
+                    team_names[player]+'\n')
+                    
+                    
+        #append the file showing algorithms
+        results.write('\n\n' + '-'*79 + '\n' + \
+                    'Here is the code that produced this data:\n\n')
+        this_code_file = open(__file__, 'r')
+        for line in this_code_file:
+            results.write(line)
+                
+    '''report the results on screen'''        
+    #print a title for the table
+    print('\n\n\tEach column shows score earned per round against each other player.\n\n')
+    
+    #print header line
+    print('\t', end='') #skip 1st column
+    for player1 in range(num_players):
+        print('P',player1, end='\t') # label each additional column
+    print()
+    
+    #print each player's scores
+    for player2 in range(num_players):
+        print('P',player2, end='\t') #label the player's row
+        for player1 in range(num_players):
+            #print score against each other player
+            print(result_table[player1][player2], end='\t') 
+        print()
+    #print row of total scores
+    print('Total:\t',end='')
+    for player1 in range(num_players):
+        print(str(int(scores[player1])),end='\t')
+
+    print('\n\n\n Average per round, with team strategy names:\n\n')
+    #print team ids, total scores, and names
+    for player in range(num_players):
+        print('player ' + str(player) , ': ' , 
+               str(int(scores[player])/num_players) , ' points: ',
+               team_names[player])
+    
