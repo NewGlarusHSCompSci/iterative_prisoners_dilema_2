@@ -16,8 +16,7 @@ Aggregated results are stored in tournament.txt
 Unpublished work (c)2013 Project Lead The Way
 CSE Project 1.3.5 Collaborating on a Project
 Draft, Do Not Distribute
-Version 10/27/2015 
-'''
+Version 10/26/2016'''
 
 import random
 def play_round(player1, player2, history1, history2, score1, score2):
@@ -396,10 +395,10 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     ######
     ######
-    # Lydia and Devon - 397 to 421
+    #
     elif player == 11:
         if getting_team_name:
-            return 'LydiaDevon'
+            return 'loyal vengeful'
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
